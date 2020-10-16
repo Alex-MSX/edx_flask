@@ -1,0 +1,3 @@
+Conceptos:
+
+- Inheritance de html templates

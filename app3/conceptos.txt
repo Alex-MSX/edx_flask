@@ -1,0 +1,3 @@
+Conceptos:
+
+- Navegar entre ventanas html {{ url_for('funcion') }}

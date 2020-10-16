@@ -1,0 +1,5 @@
+Conceptos:
+
+- Crear una aplicación con flask
+- Enviar "argumentos" a una página web
+- Ejecutar la aplicación Flask con el comando "env FLASK_APP=app.py flask run"

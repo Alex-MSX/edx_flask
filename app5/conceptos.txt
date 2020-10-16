@@ -1,0 +1,4 @@
+Conceptos:
+
+- Navegación entre pestañas utilizando método GET, POST
+- Uso de formularios
