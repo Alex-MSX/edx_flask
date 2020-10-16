@@ -1,3 +1,3 @@
 Conceptos:
 
-- Utilizar notación ginger {% for %} para leer argumentos como listas
+- Utilizar notación liquid html {% for %} para leer argumentos como listas
